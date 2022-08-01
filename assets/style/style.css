@@ -1,0 +1,13 @@
+/* BASIC STYLES HERE */
+.blackBox {
+  background-color: black;
+  height: 80VH;
+  width: 30VW;
+  background-position: center;
+  background-size: cover;
+}
+
+.beerCard {
+  height: 25VH;
+  width: 10vw;
+}
